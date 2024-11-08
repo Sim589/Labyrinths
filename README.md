@@ -17,5 +17,3 @@ learn how to use a .venv folks. its good practice. I'll be putting any python re
 ## Frontend
 To get started developing the frontend, simply `cd frontend-labyrinths` then run `npm install` 
 You can then run a dev front end server with vite via: `npm run dev`
-
-a change to main
